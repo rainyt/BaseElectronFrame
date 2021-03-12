@@ -1,0 +1,10 @@
+--class-path haxe
+--library electron
+--main ElectronSetup
+--js bin/ElectronSetup.js
+
+--next
+
+--main tools.Command
+--library hxnodejs
+--js bin/command.js
